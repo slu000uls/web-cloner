@@ -12,7 +12,7 @@ $ pip install requests
 
 ## 🔧 Start Script
 ```
-$ python3 main.py
+$ python main.py
 ```
 
 ## 😉 Usage
